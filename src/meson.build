@@ -72,6 +72,7 @@ openslide_sources = [
   'openslide-vendor-sakura.c',
   'openslide-vendor-synthetic.c',
   'openslide-vendor-trestle.c',
+  'openslide-vendor-unic.c',
   'openslide-vendor-ventana.c',
   'openslide-vendor-zeiss.c',
 ]
